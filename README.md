@@ -1,7 +1,11 @@
 
 # ABOUT ME
+![me](./img/me.jpg)
+### **Passionate about technology**
 - Date of birth: 16-11-1985
 - Place of birth: Barcelona
+- [Linkedin](https://www.linkedin.com/pub/carlos-garc%C3%ADa-rojas/aa/990/32)
+- [Twitter](https://twitter.com/Carlos_Garo)
 
 ## LANGUAGES
 - Spanish: native
@@ -21,8 +25,8 @@
 |                    | Azure            | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | GCP              | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 | **Linux**          |                  |                                                                                                                                                      |
-|                    | DEB enviroment   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                        |
-|                    | RPM enviroment   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | DEB environment   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                       |
+|                    | RPM environment   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                |
 | **Windows**        |                  |                                                                                                                                                      |
 |                    | Exchange         | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | Active Directory | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
@@ -50,7 +54,9 @@
 | **Code**           |                  |                                                                                                                                                      |
 |                    | bash             | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                        |
 |                    | Python           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
-|                    | groovy           | ![start](./img/start.png)![start](./img/start.png)                                                                                                   |
+|                    | Html             | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
+|                    | Css              | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
+|                    | Js               | ![start](./img/start.png)![start](./img/start.png)                                                                                                   |
 | **Containers**     |                  |                                                                                                                                                      |
 |                    | podman           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Docker           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
@@ -68,7 +74,8 @@
 |                    |                  |                                                                                                                                                      |
 
 ## GITHUB PROJECTS
-- https://github.com/mauserkar/jenkins-dsl
-- https://github.com/mauserkar/ansible-playbook
-- https://github.com/mauserkar/elk-project
-- https://github.com/mauserkar/tools
+- [jenkins-dsl](https://github.com/mauserkar/jenkins-dsl)
+- [ansible-playbook](https://github.com/mauserkar/ansible-playbook)
+- [elk-project](https://github.com/mauserkar/elk-project)
+- [tools](https://github.com/mauserkar/tools)
+
