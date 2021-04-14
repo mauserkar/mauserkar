@@ -12,6 +12,26 @@
 - Catalan: native
 - English: pre-intermediate/B1
 
+## WORK PRINCIPLE
+- Automation
+- Troubleshooting
+- Performance
+- Monitoring
+- Networking
+- Security
+- Cost optimization
+- DevOps practices
+
+## WORK PROJECTS
+- Create more than 30 modules of terraform
+- Design and apply internal network segmentation and inventory
+- Build CI/CD 
+- Build on-premise agents with Terraform and Ansible
+- Build Data platform product as IAC infrastructure
+- Cost reduction (-30%) and cloud infrastructure optimization (Reduce -70% vm)
+- Deploy with Infrastructure as code (infrastructure 150 Million request/day)
+- Migrate projects to docker environment (more than 350 containers)
+
 ## SOFT SKILLS
 - Empathy
 - Learning capacity
@@ -40,9 +60,9 @@
 |                    | Elasticsearch    | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Redis            | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 | **Virtualization** |                  |                                                                                                                                                      |
-|                    | Vmware           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | Vmware           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | OpenVZ KVM       | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
-|                    | Xen Hypervisor   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | Xen Hypervisor   | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | Proxmox          | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Vagrant          | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 | **Big Data**       |                  |                                                                                                                                                      |
@@ -57,6 +77,13 @@
 |                    | Html             | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | Css              | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | Js               | ![start](./img/start.png)![start](./img/start.png)                                                                                                   |
+| **Monitor./Obs.**  |                  |                                                                                                                                                      |
+|                    | Munin            | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | Grafana          | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | Prometheus       | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | zabbix           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
+|                    | Nagios           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
+|                    | Stack ELK        | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 | **Containers**     |                  |                                                                                                                                                      |
 |                    | podman           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Docker           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
