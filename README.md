@@ -85,7 +85,7 @@
 |                    | Nagios           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
 |                    | Stack ELK        | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 | **Containers**     |                  |                                                                                                                                                      |
-|                    | podman           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
+|                    | podman           | ![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Docker           | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Swarm            | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Kubernetes       | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
@@ -98,7 +98,9 @@
 |                    | Jenkins          | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                        |
 |                    | GIT              | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
 |                    | Azure devops     | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                 |
-|                    |                  |                                                                                                                                                      |
+|                    | CicleCi          | ![start](./img/start.png)![start](./img/start.png)                                                                                                   ||                    | GitLab           | ![start](./img/start.png)![start](./img/start.png)                                                                                                   |
+|                    | GitActions       | ![start](./img/start.png)![start](./img/start.png)![start](./img/start.png)                                                                          |
+
 
 ## GITHUB PROJECTS
 - [jenkins-dsl](https://github.com/mauserkar/jenkins-dsl)
